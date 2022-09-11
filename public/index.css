@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0px;
+    height: 100%;
+    background-color: #ffdfd3;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+#root {
+    margin: 0px;
+    height: 100%;
+}

@@ -1,0 +1,87 @@
+[
+    {
+        "identifiant": 1,
+        "début": " 17:00 ",
+        "durée": 60
+    },
+    {
+        "identifiant": 2,
+        "début": " 17:00 ",
+        "durée": 120
+    },
+    {
+        "identifiant": 3,
+        "début": " 19:40 ",
+        "durée": 10
+    },
+    {
+        "identifiant": 4,
+        "début": " 15:00 ",
+        "durée": 20
+    },
+    {
+        "identifiant": 5,
+        "début": " 18:00 ",
+        "durée": 60
+    },
+    {
+        "identifiant": 6,
+        "début": " 10:25 ",
+        "durée": 35
+    },
+    {
+        "identifiant": 7,
+        "début": " 10:45 ",
+        "durée": 30
+    },
+    {
+        "identifiant": 8,
+        "début": " 17:00 ",
+        "durée": 60
+    },
+    {
+        "identifiant": 9,
+        "début": " 10:00 ",
+        "durée": 30
+    },
+    {
+        "identifiant": 10,
+        "début": " 11:50 ",
+        "durée": 20
+    },
+    {
+        "identifiant": 11,
+        "début": " 19:00 ",
+        "durée": 60
+    },
+    {
+        "identifiant": 12,
+        "début": " 09:00 ",
+        "durée": 45
+    },
+    {
+        "identifiant": 13,
+        "début": " 14:45 ",
+        "durée": 60
+    },
+    {
+        "identifiant": 14,
+        "début": " 19:20 ",
+        "durée": 10
+    },
+    {
+        "identifiant": 15,
+        "début": " 11:50 ",
+        "durée": 30
+    },
+    {
+        "identifiant": 16,
+        "début": " 11:40 ",
+        "durée": 40
+    },
+    {
+        "identifiant": 17,
+        "début": " 14:00 ",
+        "durée": 30
+    }
+]
