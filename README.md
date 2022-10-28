@@ -1,5 +1,7 @@
 # PLANITY'S TEST RECUITMENT FRONTEND SENIOR
 
+![alt text](https://github.com/Dramane-dev/test_recruitment_frontend_senior/blob/master/home.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
